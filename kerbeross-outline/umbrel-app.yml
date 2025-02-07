@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: kerbeross-outline
+name: Outline
+category: Office
+version: "0.81.1"
+tagline: Self-hosted Notion alternative
+icon: https://www.getoutline.com/images/logo.svg
+description: >
+  Lost in a mess of Docs? Never quite sure who has access? Colleagues requesting the same information repeatedly in chat?
+   Its time to get your teams knowledge organized.
+
+developer: Outline
+website: https://www.getoutline.com/
+dependencies: []
+repo: https://github.com/outline/outline
+support: https://github.com/outline/outline
+port: 3000
+gallery:
+  - https://www.getoutline.com/images/screenshot.png
+path: ""
+defaultPassword: ""
+releaseNotes: >
+
+submitter: Kerbeross
+submission:
