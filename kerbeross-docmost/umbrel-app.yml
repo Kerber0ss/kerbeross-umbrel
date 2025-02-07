@@ -1,16 +1,29 @@
 manifestVersion: 1
 id: kerbeross-docmost
 name: Docmost
+category: Office
+version: "0.7.0"
 tagline: Self-hosted Notion alternative
 icon: https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/docmost/logo.png
-category: Office
-version: "1.0.0"
-port: 3000
-description: Docmost - an open-source collaborative wiki and documentation software. Create, collaborate, and share knowledge seamlessly with Docmost. Ideal for managing your wiki, knowledge-base, documentation and a lot more.
-
+description: >
+  Docmost - an open-source collaborative wiki and documentation software. 
+  
+  Create, collaborate, and share knowledge seamlessly with Docmost. 
+  
+  Ideal for managing your wiki, knowledge-base, documentation and a lot more.
 developer: Docmost
 website: https://docmost.com/
+dependencies: []
+repo: https://github.com/docmost/docmost
+support: https://github.com/docmost/docmost
+port: 3000
 gallery:
   - https://docmost.com/screenshots/home.png
   - https://docmost.com/screenshots/editor.png
   - https://docmost.com/screenshots/editor2.png
+path: ""
+defaultPassword: ""
+releaseNotes: >
+
+submitter: Kerbeross
+submission:
