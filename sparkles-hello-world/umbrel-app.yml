@@ -1,30 +1,16 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
-category: Development
+id: kerbeross-docmost
+name: Docmost
+tagline: Self-hosted Notion alternative
+icon: https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/docmost/logo.png
+category: Office
 version: "1.0.0"
-port: 4000
-description: >-
-  Add your app's description here.
+port: 3000
+description: Docmost - an open-source collaborative wiki and documentation software. Create, collaborate, and share knowledge seamlessly with Docmost. Ideal for managing your wiki, knowledge-base, documentation and a lot more.
 
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: Docmost
+website: https://docmost.com/
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-releaseNotes: >-
-  Add what's new in the latest version of your app here.
-dependencies: []
-path: ""
-defaultUsername: ""
-defaultPassword: ""
+  - https://docmost.com/screenshots/home.png
+  - https://docmost.com/screenshots/editor.png
+  - https://docmost.com/screenshots/editor2.png
